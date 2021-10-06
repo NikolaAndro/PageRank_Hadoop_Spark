@@ -6,6 +6,9 @@
 
   - Hadoop is used as memory for Spark.
 
+  - commands.scala file is there to make your life easier to copy paste all commands at once to the command prompt.
+  - PageRank_complete.scala file contains the problem description and commented code. 
+
 
 ***Instructions:***
 
