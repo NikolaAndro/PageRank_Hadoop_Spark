@@ -16,7 +16,7 @@
   ***************
 
   hadoop fs -mkdir InputFolder				                                                                  //make the inputfolder
-  hadoop fs -copyFromLocal '/home/cloudera/Downloads/Spark_Demo-master/PR_Data-1copy.txt' InputFolder   //copy PR_Data-1copy.txt to hdfs inputfolde         
+  hadoop fs -copyFromLocal '/path/to/your/inputFolder/PR_Data-1copy.txt' InputFolder   //copy PR_Data-1copy.txt to hdfs inputfolde         
 
   - When running the code, make sure you change the path to your input file in hadoop at the beginning of the program. 
   - Execute all commands in the given order.
